@@ -1,8 +1,8 @@
 {
-  "vendor": "hiringcoders10",
-  "name": "chatbot",
+  "vendor": "vtex",
+  "name": "countdown",
   "title": "chatbot",
-  "version": "1.0.0-beta.0",
+  "version": "0.0.1",
   "description": "Chatbot component",
   "defaultLocale": "pt-BR",
   "builders": {
