@@ -2,7 +2,7 @@
   "vendor": "hiringcoders10",
   "name": "chatbot",
   "title": "chatbot",
-  "version": "0.0.1",
+  "version": "1.0.0-beta.0",
   "description": "Chatbot component",
   "defaultLocale": "pt-BR",
   "builders": {
