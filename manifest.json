@@ -2,7 +2,7 @@
   "vendor": "vtex",
   "name": "countdown",
   "title": "chatbot",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Chatbot component",
   "defaultLocale": "pt-BR",
   "builders": {
